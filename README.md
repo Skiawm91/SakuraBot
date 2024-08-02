@@ -1,7 +1,7 @@
 # Skhol Bot
 **一個開源的應用程式（ Discord 這樣稱呼 ）
 <br/><br/>
-Code: `0.3.0`
+Code: `0.4.0`
 <br/>
 Release: `0.3.0`**
 ## 需求
