@@ -38,7 +38,6 @@ process.on('unhandledRejection', async (error) => {
 }).on('exit', async (code) => {
     console.info('[資訊] 應用程式已關閉！');
 })
-
 // 註冊指令
 const commands = [];
 const foldersPath = path.join(__dirname, 'Application/commands');
